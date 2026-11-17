@@ -1,5 +1,5 @@
 --[[
-thx for downloading this anti cheat by valaent on github
+thx for downloading this anti cheat by valaentd on github
 
 this code checks for :
 speed cheats
